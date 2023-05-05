@@ -28,7 +28,7 @@ import re
 import openpyxl
 
 #  Genius API key
-genius = lyricsgenius.Genius('xxxxxxxxxxxx')
+genius = lyricsgenius.Genius('xxxxxxxxxxx')
 
 
 
