@@ -1,6 +1,6 @@
 # Lyrics Extractor
 
-This Python script extracts the lyrics of Jamaican songs from the Genius API, given the artist and song name, and saves them to an Excel file. 
+This Python script extracts the lyrics of songs from the Genius API, given the artist and song name, and saves them to an Excel file. 
 
 ## Requirements
 - Python 3
